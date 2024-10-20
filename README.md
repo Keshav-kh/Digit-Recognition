@@ -3,8 +3,6 @@
 
 Welcome to the **Digit Recognition Drawing App**! This project allows users to draw digits on a 28x28 canvas, and the AI model predicts the digit using a neural network (MLP Classifier). The app is built using `Tkinter` for the GUI and `scikit-learn` for the machine learning model.
 
-![digit-recognition](https://via.placeholder.com/600x300?text=Digit+Recognition+App) 
-
 ---
 
 ### ✨ Features
@@ -70,12 +68,6 @@ Feel free to open issues or submit pull requests. Any improvements to the model 
 
 ### 📝 License
 This project is open-source and available under the MIT License.
-
----
-
-### ✉️ Contact
-- **Your Name**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [https://github.com/your-username](https://github.com/your-username)
 
 ---
 

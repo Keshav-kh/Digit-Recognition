@@ -39,7 +39,7 @@ pip install numpy matplotlib scikit-learn joblib
 ### 🚀 How to Run the App
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/digit-recognition-app.git
+    git clone https://github.com/keshav-kh/digit-recognition-app.git
     ```
 2. **Navigate to the Project Directory:**
     ```bash
